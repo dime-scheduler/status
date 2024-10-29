@@ -1,7 +1,7 @@
 url: $APISANDBOX
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2024-10-29T18:00:41.449Z
+status: down
+code: 401
+responseTime: 406
+lastUpdated: 2024-10-29T18:20:33.999Z
 startTime: 2024-10-29T15:39:26.626Z
 generator: Upptime <https://github.com/upptime/upptime>
