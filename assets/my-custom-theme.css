@@ -1,9 +1,9 @@
 :root {
     --body-background-color: #f0f7f7;
     --body-text-color: #f0ffff;
-    --card-background-color: #5246ce;
+    /* --card-background-color: #5246ce;
     --nav-background-color: #5246ce;
-    --nav-border-bottom-color: #5246ce;
+    --nav-border-bottom-color: #5246ce; */
   }
 
 a.logo div {
