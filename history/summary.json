@@ -5,19 +5,17 @@
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "app",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 610,
     "timeWeek": 610,
     "timeMonth": 610,
     "timeYear": 610,
-    "dailyMinutesDown": {
-      "2024-10-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -25,19 +23,17 @@
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "api",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 599,
     "timeDay": 599,
     "timeWeek": 599,
     "timeMonth": 599,
     "timeYear": 599,
-    "dailyMinutesDown": {
-      "2024-10-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Database",
@@ -116,20 +112,18 @@
     "url": "$APPSANDBOX",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "app-sandbox",
-    "status": "down",
-    "uptime": "69.49%",
-    "uptimeDay": "69.49%",
-    "uptimeWeek": "69.49%",
-    "uptimeMonth": "69.49%",
-    "uptimeYear": "69.49%",
-    "time": 712,
-    "timeDay": 712,
-    "timeWeek": 712,
-    "timeMonth": 712,
-    "timeYear": 712,
-    "dailyMinutesDown": {
-      "2024-10-29": 1
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API [SANDBOX]",
@@ -137,18 +131,16 @@
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "api-sandbox",
     "status": "down",
-    "uptime": "57.36%",
-    "uptimeDay": "57.36%",
-    "uptimeWeek": "57.36%",
-    "uptimeMonth": "57.36%",
-    "uptimeYear": "57.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 416,
     "timeWeek": 416,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2024-10-29": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
