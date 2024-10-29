@@ -27,14 +27,6 @@ sites:
     url: https://www.dimescheduler.com
     icon: https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg
     
-  - name: App [SANDBOX]
-    url: $APPSANDBOX
-    icon: https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg
-       
-  - name: API [SANDBOX]
-    url: $APISANDBOX
-    icon: https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg 
-    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
