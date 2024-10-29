@@ -1,7 +1,7 @@
-url: https://cp.dimescheduler.com/api/healthz
+url: $SERVICES
 status: up
 code: 200
-responseTime: 182
-lastUpdated: 2024-10-29T12:13:46.138Z
+responseTime: 110
+lastUpdated: 2024-10-29T15:39:24.713Z
 startTime: 2024-10-29T09:38:02.291Z
 generator: Upptime <https://github.com/upptime/upptime>
