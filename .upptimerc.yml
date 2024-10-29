@@ -15,7 +15,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.dimescheduler.com
-  # baseUrl: /status
+  baseUrl: /status
   logoUrl: https://cdn.dimescheduler.com/dime-scheduler/v2/logo.svg
   name: Dime.Scheduler
   introTitle: "**Dime.Scheduler** is the leading resource and project planning solution for Microsoft Dynamics 365 Business Central"
