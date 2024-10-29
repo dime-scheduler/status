@@ -112,19 +112,19 @@
     "url": "$APPSANDBOX",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "app-sandbox",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 728,
-    "timeDay": 728,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "status": "up",
+    "uptime": "77.10%",
+    "uptimeDay": "77.10%",
+    "uptimeWeek": "77.10%",
+    "uptimeMonth": "77.10%",
+    "uptimeYear": "77.10%",
+    "time": 665,
+    "timeDay": 665,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 12
     }
   },
   {
