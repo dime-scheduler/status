@@ -5,3 +5,7 @@
     --nav-background-color: #5246ce;
     --nav-border-bottom-color: #5246ce;
   }
+
+a.logo div {
+    visibility: hidden;
+}
