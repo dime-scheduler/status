@@ -112,12 +112,12 @@
     "url": "$APPSANDBOX",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "app-sandbox",
-    "status": "up",
-    "uptime": "67.12%",
-    "uptimeDay": "67.12%",
-    "uptimeWeek": "67.12%",
-    "uptimeMonth": "67.12%",
-    "uptimeYear": "67.12%",
+    "status": "down",
+    "uptime": "69.28%",
+    "uptimeDay": "69.28%",
+    "uptimeWeek": "69.28%",
+    "uptimeMonth": "69.28%",
+    "uptimeYear": "69.28%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
@@ -133,18 +133,18 @@
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "api-sandbox",
     "status": "down",
-    "uptime": "63.01%",
-    "uptimeDay": "63.01%",
-    "uptimeWeek": "63.01%",
-    "uptimeMonth": "63.01%",
-    "uptimeYear": "63.01%",
+    "uptime": "58.83%",
+    "uptimeDay": "58.83%",
+    "uptimeWeek": "58.83%",
+    "uptimeMonth": "58.83%",
+    "uptimeYear": "58.83%",
     "time": 521,
     "timeDay": 521,
     "timeWeek": 521,
     "timeMonth": 521,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2024-10-29": 72
+      "2024-10-29": 86
     }
   }
 ]
