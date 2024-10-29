@@ -1,7 +1,7 @@
-url: https://cp.dimescheduler.com/api/database
+url: $DATABASE
 status: up
 code: 200
-responseTime: 763
-lastUpdated: 2024-10-29T12:13:45.777Z
+responseTime: 566
+lastUpdated: 2024-10-29T15:39:24.419Z
 startTime: 2024-10-29T09:35:02.544Z
 generator: Upptime <https://github.com/upptime/upptime>
