@@ -25,6 +25,8 @@ status-website:
       href: /
     - title: Website
       href: https://www.dimescheduler.com
+i18n:
+  footer: Dime Software
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
