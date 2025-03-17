@@ -42,18 +42,20 @@
     "url": "$DATABASE",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 769,
-    "timeWeek": 854,
-    "timeMonth": 743,
-    "timeYear": 724,
-    "dailyMinutesDown": {}
+    "time": 725,
+    "timeDay": 774,
+    "timeWeek": 845,
+    "timeMonth": 744,
+    "timeYear": 725,
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "Services",
