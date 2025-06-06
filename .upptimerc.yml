@@ -35,6 +35,7 @@ status-website:
   logoUrl: https://cdn.dimescheduler.com/dime-scheduler/v2/logo.svg
   themeUrl: https://status.dimescheduler.com/my-custom-theme.css
   name: Dime.Scheduler
+  incidents: false
   introTitle: "**Dime.Scheduler** is the leading resource and project planning solution for Microsoft Dynamics 365 Business Central"
   introMessage: For more information, [**check out our website**](https://www.dimescheduler.com)
   faviconSvg: https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg
