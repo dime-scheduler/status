@@ -80,18 +80,20 @@
     "url": "https://docs.dimescheduler.com",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 115,
-    "timeWeek": 186,
-    "timeMonth": 180,
+    "timeDay": 155,
+    "timeWeek": 187,
+    "timeMonth": 181,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-06": 0
+    }
   },
   {
     "name": "Website",
