@@ -1,7 +1,7 @@
 url: $DATABASE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-29T15:52:59.763Z
+status: up
+code: 200
+responseTime: 20300
+lastUpdated: 2025-10-29T20:21:20.154Z
 startTime: 2024-10-29T09:35:02.544Z
 generator: Upptime <https://github.com/upptime/upptime>
