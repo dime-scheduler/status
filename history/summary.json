@@ -4,16 +4,16 @@
     "url": "$APP",
     "icon": "https://cdn.dimescheduler.com/dime-scheduler/v2/shape.svg",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "86.35%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 794,
-    "timeDay": 15020,
-    "timeWeek": 5481,
-    "timeMonth": 2189,
+    "timeDay": 11454,
+    "timeWeek": 5088,
+    "timeMonth": 2148,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2025-10-29": 197,
@@ -28,9 +28,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "86.41%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
     "time": 666,
     "timeDay": 427,
@@ -38,7 +38,7 @@
     "timeMonth": 610,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-10-29": 196,
+      "2025-10-29": 204,
       "2025-03-10": 5
     }
   },
@@ -49,9 +49,9 @@
     "slug": "database",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "86.52%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 714,
     "timeDay": 554,
@@ -59,7 +59,7 @@
     "timeMonth": 621,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2025-10-29": 194,
+      "2025-10-29": 203,
       "2025-03-17": 16
     }
   },
@@ -70,9 +70,9 @@
     "slug": "services",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "86.62%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 157,
     "timeDay": 106,
@@ -80,7 +80,7 @@
     "timeMonth": 151,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-10-29": 193
+      "2025-10-29": 201
     }
   },
   {
