@@ -1,7 +1,7 @@
 url: https://docs.dimescheduler.com
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2025-11-18T14:30:54.817Z
+status: down
+code: 500
+responseTime: 96
+lastUpdated: 2025-11-18T15:21:07.872Z
 startTime: 2024-10-29T11:57:07.399Z
 generator: Upptime <https://github.com/upptime/upptime>
